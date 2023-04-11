@@ -1,0 +1,6 @@
+{
+  "$id": "license-test-dj",
+  "$schema": "https://schema.yext.com/config/pages/repository/v1",
+  "repoUrl": "github.com/yext-pages/dj-license-test",
+  "templateRepo": "github.com/YextSolutions/pages-starter-blank"
+}
